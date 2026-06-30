@@ -1,5 +1,5 @@
 {
-  "version": "2.0",
-  "url": "PASTE_INSTALLER_DOWNLOAD_LINK_HERE",
-  "notes": "GP DocStudio 2.0 beta - first internal release."
+  "version": "2.1",
+  "url": "https://github.com/capavankumar/gpdocstudioversion/releases/download/v2.1/GP_DocStudio_Setup_v2.1.exe",
+  "notes": "GP DocStudio 2.1 - Redaction is now fully solid (no see-through preview). Smart redaction groups duplicate PANs/Aadhaars with select-all, clear and undo, and a Show-on-page locator. PDF to Excel now converts bank statements correctly (running balance verified) and keeps every figure in its own cell for easy Text-to-Columns on mutual-fund / capital-gains statements."
 }
