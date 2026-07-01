@@ -1,5 +1,5 @@
 {
-  "version": "2.1",
-  "url": "https://github.com/capavankumar/gpdocstudioversion/releases/download/v2.1/GP_DocStudio_Setup_v2.1.exe",
-  "notes": "GP DocStudio 2.1 - Redaction is now fully solid (no see-through preview). Smart redaction groups duplicate PANs/Aadhaars with select-all, clear and undo, and a Show-on-page locator. PDF to Excel now converts bank statements correctly (running balance verified) and keeps every figure in its own cell for easy Text-to-Columns on mutual-fund / capital-gains statements."
+  "version": "2.5",
+  "url": "https://github.com/capavankumar/gpdocstudioversion/releases/download/v2.5/GP_DocStudio_Setup_v2.5.exe",
+  "notes": "GP DocStudio 2.5 - New 'Excel: Preview & Fix' tool: open a statement, see it with the column lines drawn on it, drag to fix columns, name the columns, crop the repeating header/footer, box out anything unwanted, and a live badge tells you the running balance ties before you save. PDF to Excel now handles wrapped narration and multi-page statements correctly (Canara/HDFC/ICICI balance-verified). Also: HDFC deposit/withdrawal split, and the updater now closes the app for you (no more 'close the app' prompt)."
 }
